@@ -61,4 +61,4 @@ AVFoundation 안에 있는 기능중 시스템 사운드를 이용할수 있었�
 ---
 
 ## **구현 영상**
-<img width="80%" src="{https://user-images.githubusercontent.com/100309352/169304411-46ba90de-f057-4d70-9129-9e83d62e5714.gif}"/>    
+<img width="80%" src="https://user-images.githubusercontent.com/100309352/169304411-46ba90de-f057-4d70-9129-9e83d62e5714.gif"/>    
